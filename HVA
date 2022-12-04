@@ -1,0 +1,1285 @@
+# Author: Mustafa Polat
+# Group: FDMCI_ID1G3
+# Opdracht: Eindopdracht user story
+# Date: 03.12.2022
+# Version nr: 03122022.V1
+# User kan leren programmeren in Python
+# As a student of HBO ICT DE SE, I want to write a program, so that will help the user learn Python programming step by step.
+##############################################################################################################################################
+
+
+# Functie: print("")
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Hi! Welcome!")
+print ()
+
+# Functie: input()
+print ("What is your name?")
+input1 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# i.v.m Behalen Extra Punten: Upper Method ==>vb: print(input1.upper())
+print ("Hi " + input1.upper() +"! " "Let's get start with Python programming.")
+print ()
+print ("Python is created by Guido Van Rossum, Python is an opject-oriented, general-purpose high-level programming language.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input2 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("With an aim to make programming easier for beginners and get things done in fewer lines as compared to other programming languages,")
+print ("Python is a top choice to learn in recent times.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input3 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Getting started with Python")
+print ()
+print ("Python is a perfect choice of programming language if you are a beginner.If you have any previous programming experience,")
+print ("then learning Python would be a cakewalk.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input4 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Introduction")
+print ("Succesfully Completed")
+print ("Next Topic")
+print("Hello Python!")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to START NEXT TOPIC!")
+input5 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Who created Python?")
+print ("Select appropriate answer")
+print ("A: James Gosling")
+print ("B: Guido VAn Rossum")
+print ("C: Bjarne Stroustrup")
+print ("D: None of the above")
+input6 = input ("==>:  ")
+print ("Hey, That's amazing!")
+print ("Nope, it was Guido Van Rossum.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input7 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Revisiting Python")
+print ()
+print ("As of now, You must have got a glimpse of what is Python, Let's revise a bit!")
+print ("Python is a general-purpose interpreted, interactive, opject-oriented and high-level programming language")
+print ("It was created by Guido van Rossum in 1985-1990")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input8 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Python is designed to be highly readable.")
+print ("It uses English keywords frequently whereas other languages use punctuation and it has fewer syntactic constructions than other languages.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input8 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Python is designed to be highly_______")
+print ("A: Compactible")
+print ("B: Readable")
+input9 = input ("==>:  ")
+print ("Hey, That's amazing!")
+print ("Nope, Python is designed to be highly readable.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input10 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Python is said to have succeeded, the ABC Programming Language, which had interfacing with the ")
+print ("Amoeba Operating System and had the feature of expection handling")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input11 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("However, it had few complaints which needed to be addressed")
+print ("So, Guido Van Rossum took the syntax of ABC along with some of its good features and tried to fix its issues.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input12 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("In this process, he created a good scripting language that removed al the flaws of the previous language.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input14 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print("The language, Python was finally released in 1991")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input14 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Python is said to have succeeded XYZ programming language.")
+print ("Is this true or false?")
+print ("True")
+print ("False")
+input16 = input ("==>:  ")
+print ("That is right!")
+print ("Nope.Python is said to have succeeded, the ABC Programming LanguagePython is said to have succeeded, the ABC Programming Language.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input14 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Python was released in_________.")
+print ("Select appropriate answer")
+print ("1995")
+print ("1991")
+print ("1990")
+input17 = input ("==>:  ")
+print ("Hey, That's amazing!")
+print ("Nope! Python was released in 1991.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("The inspriration for the name came from BBC's TV Show -'Monty Python's Flying Circus', as the creator of Python - Guido Van ROssum - was a big ")
+print ("fan of the TV show and also he wanted a short, unique and slightly mystreious name for his invention.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input19 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("And that's how the name became to be 'Python'.")
+print ("Amazing, right?")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input14 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("The programming language Python is named after a TV show.")
+print ("Select appropriate answer")
+print ("True")
+print ("False")
+input21 = input ("==>:  ")
+print ("Fantastic!")
+print ("Try again!")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Next Topic")
+print ("Features of Python")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to start the next topic")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Easy-to-learn")
+print ("Python has few keywords, simple structure, and a clearly defined syntax.")
+print ("This makes it easy to catch for beginners")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Easy to read")
+print("Python code is more clearly defined and visible to the eyes.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Easy to maintain")
+print ("Python's source code is fairly easy to maintain.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to see more features!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Broad standard library")
+print("Python's bulk libraries are very protable and cross-platform compatible with UNIX, Windows and Macintoch.")
+print ("Interactive mode")
+print ("Python has support for an interactive mode that allows interactive testing and debugging of snippets code.")
+print ("Portable")
+print ("Python can run on a wide variety of hardware platforms and has the same interface on all those.")
+print ("Extandable")
+print ("You can add low-level modules to the Python interpreter.This modules enable programmers to add or customize their tools be more efficient")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Tip!")
+print ("Oh! That's too much theory with a lot of jargon in it.")
+print ("And surely you might be wodnering what does interpreter means, or what is a module, and much more.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Don't worry! For now, just understand why Python is so popular.")
+print ("By the end of this journey, you will be well versed with all the jargon.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Succesfully Completed")
+print ("Features of Python")
+print ("Next Topic")
+print ("How Python Works?")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Real life use")
+print ("A company called ForecastWatch.com is in the business of rating the accuracy of weather reports from companies")
+print ("such as Accuweather, MyForecast.com, and The Weather Channel.")
+print ("ForecastWatch.com is a 100% pure Python solution.Python is used in all its components,")
+print ("from the back-end to the front-end, including also the more performance-critical portions of the system.")
+print ("ForecastWatch.com's web interface was originally written in PHP but later changed to Python to simplify tool toolset and improve")
+print ("integration with the other components of the system.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Succesfully Completed")
+print ("REal-Life Use Case")
+print ("Next Topic")
+print ("Let's start")
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Let's start")
+print ("When it comes to programming, Python is absolute heaven for developers.")
+print ("Welcome to the amazing world of Python.")
+print ()
+print ()
+print ("Get your machines ready to install Python and all the other required tools.")
+print ("Once done, you will be writing your first-ever code in Python in this section.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Hello Python")
+print ("In this section, you will get your hands on Python programming and get started with the absolute basics.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Succesfully Completed")
+print ("Introduction")
+print ("Next Topic")
+print ("Installing Python")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Python is here")
+print ("To work with Python and run Python on your machine, first, you will need install Python in your system.")
+print ()
+print ("It is unlikely that your Windows system will be shipped with Python already installed.")
+print ()
+print ("Windows systems typically do not come with Python. Fortunally, installing the same does not involve much more than downloading")
+print ("the Python installer drom Python from https://www.python.org/ and running it.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+
+# Installing Python
+print ("Installing Python")
+print ("1. Open a browser and navigate to the Download page for Windows at Python.org")
+print ()
+print ("2. Underneath the heading at the top that says Python Releases for WIndows, click on the link for the latest PYthon 3 Release.")
+print ()
+print ("3. Select the type of your Windows, which is 64-bit or 32-bit, and download the installer acoordingly.")
+print ()
+print ("4. One you have chosen and downlaoded an installer, simply run it by double-clicking on the downloaded file. A dialog should appear")
+print ()
+print ("5. Make sure to check the box that says 'Add PYthon 3.X to PATH' as shown to ensure that the interpreter will be placed in your execution path.")
+print ()
+print ("Then just click 'Install Now'")
+print ()
+print ()
+print ("It will take a few minutes and Python will be installed in your system")
+print ("...")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("How to check?")
+print ()
+print ("Once the installation is done, you will need to check whether it is done properly or not.")
+print ("To do so, just open up the command line and hit the command 'Python'.")
+print ("This will take you to the Python shell that will look something like>>>")
+print ()
+print ("If you can see these tree arrows (>>>), this means you are in the Python shell and it was installed successfully.")
+print ()
+print ("If not, then you might need to reinstall PYthon.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Installing Python on macOS
+print ("Installing Python on macOS")
+print ()
+print ("Just like Windows, hit Next> Next... and Install.")
+print ("That's it, this will install Python on your macOS system.")
+print ()
+print ("Hit the below command in the terminal to check whether Python was installed or not,")
+print ()
+print ("$ python3--version")
+print ()
+print ("If the above command returns the version of the Python which you installed, that means the installation was successfully.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("If you are not able to install Python on your machine, or if you don't want to install it, don't worry, we have got your back!")
+print ("You can start programming Python with in this code 'in-built compiler'.")
+print ("No need to install anything and look for any dependencies, use this 'in-built compiler' and start coding with Python.")
+print ()
+print ()
+print ()
+print ("Happy Coding!")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# urllib.request — Extensible library for opening URLs
+# The urllib.request module defines functions and classes which help in opening URLs (mostly HTTP) in a complex world — basic and digest authentication,
+# redirections, cookies and more.
+import urllib.request
+webUrl = urllib.request.urlopen ("https://www.youtube.com/watch?v=_uQrJ0TkZlc")
+print ("result code: " + str(webUrl.getcode()))
+data = webUrl.read()
+print (data)
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print (".")
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("That was scary, wasn't it?")
+print ("<(. .)>")
+print (" (|||) ")
+print ("  (O)  ")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Successfully Completed")
+print ("Installing Python")
+print ("Next Topic")
+print ("Hello World")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Creating a simple program that displays some text is often the first thing any programmer doeas after setting up their environment for the first time")
+print ()
+print ("Also, it is the most basic requirement of any kinf of application to display some output")
+print ()
+print ("For example, display the username of the user in your application")
+print ("So, without breaking the tradition, let's start with the 'Hello World' program.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# 'print()' function
+print ("Hello World")
+print ("The aim of this program is to print 'Hello World' on the output screen.")
+print ()
+print ("To do this, we can use the 'print()' function. The 'print()' is a predefined function in Python that prints the specified message as the output.")
+print ()
+print ("Check this out,")
+print ("Write below: print('Hello World!')")
+input3 = input ("==>:  ")
+print ()
+print ("Output:")
+print ()
+print ("Hello World!")
+print ()
+print ("Congratulations on your very first Python code execution, " + input1.upper() +"!")
+print ()
+print ("To print anything, we just need to pass that in the print function in double-quotes")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Successfully Completed")
+print ("Hello World")
+print ("Next Topic")
+print ("Comments")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Comments
+print ("What are Comments?")
+print ("Comments are an important part of programming.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Thay allow you to describe what eacht part of your code does. This is especially important when your program is a bit more")
+print ("than one line. [Spoiler ALert: That'd be ALWAYS!]")
+print ()
+print ("But it's good to practice to add comments as you write the program, even if the program is small.")
+print ()
+print ("Comments in Python")
+print ("In Python, comments start with the hash character (#) and end at the end of the line.In other words, if you want to write a comment, start the line with #")
+print ("Comment are ignored by Python interpreter since they are used to make the code more readable and only for the programmers to refer to.")
+print ("Example of the comments in Python:")
+print ()
+print ("# Below is the code to print Hello World")
+print ("print('Hello World!')")
+print ()
+print ("Output:")
+print ()
+print ("Hello World!")
+print ()
+print ("As you can see from the result, the comment isn't actually given as output. It's simply there for the programmer's benefit.")
+print ()
+print ("A small Tip: Try to make your comments descriptive but concise.")
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Successfully Completed")
+print ("Comments")
+print ("Next Topic")
+print ("Role of Data")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("It does not matter what kind of application it is, data plays an important role in programming.")
+print ("A full-fleged tech giant like FAcebook/Meta, or a simple gane where you need to keep the count of the highest score, data is everywhere.")
+print ()
+print ("Thus, in this section we will learn how we can work with data in programming and how we can store data.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Working with data in Python")
+print ("We will need something in our application that can handle and store this data.")
+print ()
+print ("Let's see how we can do that in Python.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Successfully Completed")
+print ("Introduction")
+print ("Next Topic")
+print ("Concept of Variables")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Concept of Variables
+# Variable
+print ("Storing Data")
+print ("In programming, we need to store and work with various kinds of data.")
+print ()
+print ("This data is stored in the memory, and when we want to 'label' it as a piece of information, we call it a variable.")
+print ("This data can be fetched and manipulated at any particuler instance in the program.")
+print ("Let's learn more about 'Variables'...")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("What is a variable?")
+print ("Think of a glass container, that you might use to store chocolates. LEt's put a sticker on it as 'Chocolates'.")
+print ("Here, the glass container is just like a memory space in your computer used to store data.")
+print ("Chocolates are the data stored in it, and the label 'Chocolates' is the name given to that memory space, which is a variable.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Variables in Python")
+print ("How do we create a variable and store some data in Python?")
+print ("Here are the steps we might need to follow;")
+print ("1. Declare a label to the memory loaction - Variable Name")
+print ("2. Assign the value using the 'Equals' ('=') - Assigment Operator.")
+print ("Give the required value - Data needed to be stored.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Let's say, we have an application that needs to store the name of countries.")
+print ("So here's how we will define a variable for it:")
+print ("country = 'Holland'")
+print ()
+print ("Simple, isn't it?")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Now let's say, we wnat to print the value that the variable 'country' holds.")
+print ("How to do that?")
+print ("We will just pass the variable name to the print() function, rather than passing a value that is needed to be printed.")
+print ("print(country)")
+print ()
+print ("Output:")
+print ()
+print ("Holland")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Some rules")
+print ("Here are some set of rules that you might need to follow while declaring a vriable.")
+print ("1. A variable name should be meaningful and descriptive")
+print ("2. A variable name must start with a letter or the underscore character")
+print ("3. A variable name cannot start with a number")
+print ("4. A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _)")
+print ("5. Variable names in Python are case-sensitive, this means country, Country, and COUNTRY are three different variables.")
+print ("A value, if it is a word or a character, has to be enclosed in double or single quotes")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to continue!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Successfully Completed")
+print ("Concept of Variables")
+print ("Next Topic")
+print ("What is Data Type?")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Types of Data")
+print ("A variable is used to store any type of data that is required by the application")
+print ("That data can be a word, a number, a decimal, etc...")
+print ()
+print ("For example;")
+print ()
+print ()
+print ("name = 'John'")
+print ("age = 23")
+print ("bodyTemperature = 98.4")
+print ()
+print ("Here, we can see three variables; name, age, and bodyThemperature which hold their respective values. But, all these variables hold different types of value.")
+print ()
+print ("This brings us to the concept of 'Data Types' in Python")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Data Types in Python
+print (" Data Types in Python")
+print ("Data types are the classification or categorization of data items.")
+print ("These basically are various of data that variable can hold, which in turn, defines the type of variable.")
+print ()
+print ("Python provides various kinds of data to work with. Data Types available in Python are categorized as follows;")
+print ("1. Numeric Type: Integer, Complex Number, Float")
+print ("2. Sequence Type: Strings, List, Tuple")
+print ("3. Boolean")
+print ("4. Sets")
+print ("5. Mapping Type (Dictionary)")
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Successfully Completed")
+print ("What is Data Type?")
+print ("Next Topic")
+print ("Working with Numbers")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("The most basic data types in Python are Numeric, String, and Boolean.")
+print ("Let's discuss them in detail...")
+print ("In this section, we will start with the Python Numeric Type.")
+print ()
+print ("Numeric Type in Python consists of;")
+print ()
+# Data Type: Integer: The integer type is represented as 'int'
+print ("Integer: The integer type is represented as 'int'")
+print ("In Python, integers are zero, positive or negative whole numbers without a fractional part and having unlimited precision,") 
+print ("e.g. 0, 100, -10. The followings are valid integer literals in Python. Integers can be binary, octal, and hexadecimal values.")
+print ("For example:")
+print ("number = 5")
+print ("age = 26")
+
+print("___________________________________________________________________________________________________________________________________________________________")
+print("Click ENTER to continue.")
+enter2 = input("==>: ")
+print("___________________________________________________________________________________________________________________________________________________________")
+
+print("We are now going to write some code to calculate your age")
+print()
+print("Would you like to know how we can do that?")
+input4 = input("==>: ")
+print()
+print("We're going to do that with the Python function we call: input()." )
+
+print("___________________________________________________________________________________________________________________________________________________________")
+print("Click ENTER to continue.")
+enter1 = input("==>: ")
+
+print("___________________________________________________________________________________________________________________________________________________________")
+print("Step 1: Write the following below: birth_year = input('Enter your birth year:')")
+input5 = input("==>: ")
+print ("__________________________________________________________________________________________________________________________________________________________")
+print()
+print("Step 2: Now write the following below: age = 2022 - birth_year")
+input6 = input("==>: ")
+print()
+print("Step 3: Finally, Write the following below: print(age)")
+input7 = input("==>: ")
+print()
+print("Great!")
+print("Now let's see if the code we programmed to calculate age actually works.")
+
+print("___________________________________________________________________________________________________________________________________________________________")
+print("Click ENTER to continue.")
+enter2 = input("==>: ")
+print("___________________________________________________________________________________________________________________________________________________________")
+
+# Variable: int()
+birth_year = input("Enter your birth year: ")
+age = 2022 - int(birth_year)
+print("___________________________________________________________________________________________________________________________________________________________")
+print( "You are " + str(age) + " year.")
+print("___________________________________________________________________________________________________________________________________________________________")
+print("Wow! Great job " + input1.upper() + "!")
+print()
+print("___________________________________________________________________________________________________________________________________________________________")
+print ("Click ENTER to continue to Lesson 3")
+lesson = input("==>: ")
+print ()
+
+# Data Type: Floating Point: is called also 'float'
+print ("Floating Point: is called also 'float' ")
+print ("Float() is a method that returns a floating-point number for a provided number or string.")
+print ("Float() returns the value based on the argument or parameter value that is being passed to it. If no value or blank parameter is passed,")
+print ("it will return the values 0.0 as the floating-point output.")
+print ("In simple words, a number that has a decimal, falls under the floating-point type.")
+print ("For example:")
+print ("temperature = 35.6")
+print ("rates_of_interest = 2.5")
+print ()
+print ("Here, temperature and rates_of_interest, both variables are of type 'float'")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Variable: float() Rekenmachine
+print("We are now going to write some code that will calculate the sum for us which does the same as a calculator, inclusive the decimal.")
+print("We'll do that using the Python function: float()")
+print ()
+
+print ("__________________________________________________________________________________________________________________________________________________________")
+print("Let's Start!!! Click ENTER to continue.")
+enter3 = input("==>: ")
+print ("__________________________________________________________________________________________________________________________________________________________")
+
+print("Step 1: Now write the following below: number1 = float(input('First number: '))")
+input8 = input("==>: ")
+print ()
+print("Step 2: Now write the following below: number1 = float(input('Second number: '))")
+input9 = input("==>: ")
+print ()
+print("Step 3: Now write the following below: sum = number1 + number2")
+input10 = input("==>: ")
+print ()
+print("Great! Now our calculator is ready for testing.")
+print ("Exciting!!!")
+print ()
+
+print ("__________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ()
+print ("Here it comes!")
+print ()
+number1 = float(input("First number: "))
+number2 = float(input("Second number: "))
+sum = number1 + number2
+
+
+# Function: str()
+print("Sum = " + str(sum))
+print ()
+print("Well done " + input1 +"!")
+print ()
+
+print ("__________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Complex number
+print ("Complex number")
+print ("Let's go back to our school math. What is a complex number?")
+print ("A complex number is a number of the form a + bi, where a and b are real numbers, and i is an indeterminate satisfying i2 = −1. For example, 2 + 3i is a complex number.")
+print ("Because no real number satisfies this equation, 'i' is called an 'imaginary number'")
+print ()
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Here's how we define a complex number;")
+print ("number = 5 + 3j")
+print ("print(number)")
+print ("Output:")
+number = 5 + 3j
+print (number)
+print ()
+print ("Simple, Right?")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Working with Numbers")
+print ("Next Topic")
+print ("Working with Words")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Python Strings
+print ("Working with Words")
+print ()
+print ("What is a string in Python?")
+print ("String is a collection of alphabets, words or other characters. It is one of the primitive data structures and are the building blocks for data manipulation.")
+print ("Python has a built-in string class named str . Python strings are 'immutable' which means they cannot be changed after they are created.")
+print ("In simple words, A string is a sequence of characters")
+print ("So, any character, any word, or any sentence in Python is a String.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Strings in python are surrounded by either single quotation marks, or double quotation marks.")
+print ("You can display a string literal with the print() function:")
+print ("'hello' is the same as ''hello''.")
+print ("Example")
+print ("print('Hello')")
+print ("print(''Hello'')")
+print ("Output:")
+print ("Hello")
+print ('Hello')
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Assign String to a Variable
+print ("Assign String to a Variable")
+print ("Assigning a string to a variable is done with the variable name followed by an equal sign and the string:")
+print ("Example")
+print ("a = 'Hello'")
+print ("print(a)")
+print ("Output:")
+print ("Hello")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+
+print ("Strings are Arrays")
+print ("Like many other popular programming languages, strings in Python are arrays of bytes representing unicode characters.")
+print ("However, Python does not have a character data type, a single character is simply a string with a length of 1.")
+print ("Square brackets can be used to access elements of the string.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("Example")
+print ("Get the character at position 1 (remember that the first character has the position 0):")
+print ("a = 'Hello, World!'")
+print ("print(a[1])")
+print ("Output:")
+print ("e")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Looping Through a String
+print ("Looping Through a String")
+print ("Since strings are arrays, we can loop through the characters in a string, with a for loop.")
+
+print ("Example")
+print ("Loop through the letters in the word 'banana':")
+print ()
+print ("for x in banana':")
+print ("  print(x)")
+print ("output:")
+for x in "banana":
+  print(x)
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+print ("String Length")
+print ("o get the length of a string, use the len() function.")
+print ()
+print ("The len() function returns the length of a string:")
+print ("Example")
+print ()
+print ("a = 'Hello, World!'")
+print ("print(len(a))")
+print ("output:")
+a = "Hello, World!"
+print(len(a))
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Check String
+print ("Check String")
+print ("To check if a certain phrase or character is present in a string, we can use the keyword in.")
+print ("Example")
+print  ("Check if 'free' is present in the following text:")
+print ("txt = 'The best things in life are free!'")
+print ("print('free' in txt)")
+print ()
+print ("output:")
+txt = "The best things in life are free!"
+print("free" in txt)
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+
+# Use it in an if statement:
+print ("Use it in an if statement:")
+print ("Example")
+print ("Print only if 'free' is present:")
+print ()
+print ("txt = 'The best things in life are free!'")
+print ("if 'free' in txt:")
+print ("  print('Yes, 'free' is present.')")
+print ()
+print ("output:")
+print ()
+txt = "The best things in life are free!"
+if "free" in txt:
+  print("Yes, 'free' is present.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Check if NOT
+print ("Check if NOT")
+print ("To check if a certain phrase or character is NOT present in a string, we can use the keyword not in.")
+print ()
+print ("Example")
+print ("Check if 'expensive' is NOT present in the following text:")
+print ("txt = 'The best things in life are free!'")
+print ("print('expensive' not in txt)")
+print ()
+print ("output:")
+print ()
+txt = "The best things in life are free!"
+print("expensive" not in txt)
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Use it in an if statement:
+print ("Use it in an if statement:")
+print ()
+print ("Example")
+print ("print only if'expensive' is NOT present:")
+print ("txt = 'The best things in life are free!'")
+print ("if 'expensive' not in txt:")
+print ("  print('No, 'expensive' is NOT present.'")
+print ()
+print ("output:")
+print ()
+txt = "The best things in life are free!"
+if "expensive" not in txt:
+  print("No, 'expensive' is NOT present.")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Python If ... Else
+print ("Python If ... Else")
+print ("An 'if statement' is written by using the if keyword.")
+print ()
+print ("Example")
+print ()
+print ("If statement:")
+print ()
+print ("a = 33")
+print ("b = 200")
+print ("if b > a:")
+print ("  print('b is greater than a')")
+print ()
+print ("output:")
+print ()
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Indentation
+# you will get an error
+print ("Indentation")
+print ("Python relies on indentation (whitespace at the beginning of a line) to define scope in the code. Other programming languages often use curly-brackets for this purpose.")
+print ()
+print ("Example")
+print ()
+print ("If statement, without indentation (will raise an error):")
+print()
+print ("a = 33")
+print ("b = 200")
+print ("if b > a:")
+print ("print('b is greater than a')") 
+print ()
+print ("output:")
+print ()
+print ("Indentation")
+print ("You will get an error")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Creating a Function
+print ("Creating a Function")
+print ("In Python a function is defined using the def keyword:")
+print ()
+print ("Example")
+print ()
+print ("def my_function():")
+print ("  print('Hello from a function')")
+print ()
+print ("output:")
+print ()
+def my_function():
+  print("Hello from a function")
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+# Calling a Function
+print ("Calling a Function")
+print ("To call a function, use the function name followed by parenthesis:")
+print ()
+print ("Example")
+print ()
+def my_function():
+  print("Hello from a function")
+
+my_function()
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+
+# Built-in Math Functions
+# The min() and max() functions can be used to find the lowest or highest value in an iterable:
+print ("Built-in Math Functions")
+print ("The min() and max() functions can be used to find the lowest or highest value in an iterable:")
+print ()
+print ("Example")
+print ()
+x = min(5, 10, 25)
+y = max(5, 10, 25)
+
+print(x)
+print(y)
+
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Click Enter to Start Next Topic!")
+input18 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Klik op ENTER om verder te gaan naar Les 4.")
+les4 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+# Extra: Upper Method ==>vb: print(input11.upper())
+print ("Les 4: Printen/Converteren in KOEIENLETTERS")
+print ()
+print ("Beste " + input1.upper() + ",")
+print ("We gaan nu iets bijzonders laten zien.")
+print ("Want het is nooit laat om nieuwe dingen te leren al ben je " + str(age) + " jaar oud.")
+print ("Toch!")
+print ()
+print ("We gaan nu zien hoe je de output tekst die je ontvangt kan uitprinten in KOEIEN LETTERS.")
+print ()
+print ("Schrijf maar iets hieronder in kleine letters.")
+input11 = input ("==>:  ")
+print ()
+print (input11.upper())
+print ()
+print ("Ben je benieuwd hoe we dat gedaan hebben?")
+print ()
+print ("Klik dan maar op ENTER!")
+input12 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Dat hebben we gedaan met de zogenaamde upper method functie")
+print ()
+print ("Bijvoorbeeld:")
+print ("course = 'Python for beginners'")
+print ("print(course.upper())")
+print ()
+print ("PYTHON FOR BEGINNERS")
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Klik op ENTER om verder te gaan naar Les 5.")
+les5 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+# Extra: Lower Method ==>vb: print(input12.lower())
+print ("Les 5: Printen/Converteren naar kleine letters")
+print ()
+print ("Beste " + input1.upper() + ",")
+print ("We gaan nu de tegenovergestelde doen van de vorige opdracht.")
+print("Alles wat je nu in HOOFDLETTERS schrijft/vraagt zal uitkomen in kleine letters")
+print ()
+print ("We gaan nu zien hoe je de output tekst die je ontvangt kan uitprinten in kleine letters.")
+print ()
+print ("Schrijf maar iets hieronder in HOOFDLETTERS of mix van zowel hoofd als kleine letters.")
+input13 = input ("==>:  ")
+print ()
+print (input12.lower())
+print ()
+print ("Dat hebben we gedaan met de zogenaamde lower method functie")
+print ()
+print ("Bijvoorbeeld:")
+print ("course = 'PythoN FOR bEginners'")
+print ("print(course.lower())")
+print ("python for beginners")
+print ()
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Klik op ENTER om verder te gaan naar Les 6")
+les6 = input ("==>:  ")
+print ("________________________________________________________________________________________________________________________________________________________")
+# Functie: boolean() / Operator: in
+print ("Les 6: Zoekfunctie")
+print ()
+print ("Beste" + input1.upper() + "," " we gaan nu naar een woord zoeken in een tekst")
+print ()
+print ("In dit geval zoeken we naar het woord 'Python' in de zin 'Python for beginners'")
+print ("Mocht heet woord 'Python' in de bovenstaande zin WEL voorkomen, dan krijg je een respons vanuit de computer")
+print ("Je krijgt dan het volgende te zin: True")
+print ()
+print ("Klik op ENTER om te zien of het echt zo is.")
+enter7 = input ("==>:  ")
+print ()
+course = "Python for beginners"
+print ("Python" in course)
+print ()
+print ("Python laat hiermee zien dat het klopt, dat het woord 'Python' wel aanwezig is in de zin 'Pyton for beginners'")
+print ()
+print ("Ben je benieuwd hoe we dat gedaan hebben?")
+print ()
+print ("Klik dan maar op ENTER! om daar achter te komen")
+input14 = input ("==>:  ")
+print ()
+print ("Dat hebben we gedaan met de zogenaamde speciale key word in Python die we 'in operator' noemen ")
+print ()
+print ("Het ziet er zo uit:")
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("course = 'Python for beginners'")
+print ("'Python' in course")
+print ("True")
+print ("________________________________________________________________________________________________________________________________________________________")
+# Functie: boolean() / Operator: in
+print ("Les 6: Zoekfunctie")
+print ()
+print ("We gaan nu naar een woord zoeken in een tekst")
+print ("Klik op ENTER om verder te gaan.")
+enter7 = input ("==>:  ")
+print ()
+course = "Python for beginners"
+print (course.find("y"))
+print ("Python" in course)
+print ()
+# Data type: str
+x = "Hello World"
+#display x:
+print(x)
+#display the data type of x:
+print(type(x)) 
+print ("________________________________________________________________________________________________________________________________________________________")
+# Data type: int
+x = 20
+#display x:
+print(x)
+#display the data type of x:
+print(type(x)) 
+print ("________________________________________________________________________________________________________________________________________________________")
+print ("Les 7: Python Lists")
+print ("Lists are used to store multiple items in a single variable.")
+print ("Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.")
+print ("Lists are created using square brackets:")
+fruitlijst = ["apple", "banana", "cherry"]
+print(fruitlijst)
+"""
